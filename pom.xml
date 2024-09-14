@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>dev.magadiflo</groupId>
-    <artifactId>webflux-r2dbc-joins</artifactId>
+    <artifactId>webflux-r2dbc-joins-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>webflux-r2dbc-joins</name>
     <description>Demo project for Spring Boot</description>
